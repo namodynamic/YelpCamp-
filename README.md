@@ -1,7 +1,9 @@
-Yelpcamp
+*Yelpcamp
+
 Yelpcamp is a web application built using Node.js, Express, MongoDB, and Bootstrap that allows users to register, view and add campgrounds and reviews.
 
-Features
+*Features
+
 User authentication using Passport.js
 User can add, edit, and delete their own campgrounds
 User can add, edit, and delete their own reviews
@@ -12,7 +14,8 @@ Responsive design using Bootstrap
 Usage
 To use Yelpcamp, follow these steps:
 
-Install dependencies:
+*Install dependencies:
+
 bash
 Copy code
 npm install
@@ -22,8 +25,10 @@ Copy code
 node app.js
 Visit http://localhost:3000/ in your web browser.
 
-Authors
+*Author
+
 Nnamdi Ekechi - github.com/namodynamic
 
-Credits
+*Credits
+
 This application was built as part of the Web Developer Bootcamp course on Udemy by Colt Steele.
